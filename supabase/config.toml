@@ -1,0 +1,25 @@
+project_id = "nmdnvnzfdbezwuyovfdw"
+
+[functions.generate-health-insights]
+verify_jwt = true
+
+[functions.check-missed-and-notify-guardians]
+verify_jwt = false
+
+[functions.send-medication-reminders]
+verify_jwt = false
+
+[functions.check-missed-doses]
+verify_jwt = false
+
+[functions.send-refill-reminders]
+verify_jwt = false
+
+[functions.send-otp-email]
+verify_jwt = false
+
+[functions.verify-otp]
+verify_jwt = false
+
+[functions.medical-chat]
+verify_jwt = false
