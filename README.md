@@ -1,4 +1,7 @@
-# Welcome to your Medimind
+# Welcome to  Medimind
+
+MediMind : smartly keeping your meds in mind
+(AI powered medication adherence companion)
 
 ## Project info
 
